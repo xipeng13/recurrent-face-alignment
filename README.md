@@ -21,7 +21,9 @@ European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 # Tracking protocol
 For research convenience, we split testing video into frames using ffmpeg.
 
-The user need to provide the bbox of the face at the first frame to initial the tracker. Please check "TrackDemo.py" for more details.
+The user need to provide the bbox of the face at the first frame to initialize the tracker.
+
+Dependency: caffe (support versions after Oct, 2015); python 2.7.
 
 # Reference
 Bibtex
