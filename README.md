@@ -1,7 +1,10 @@
 # A Recurrent Encoder-Decoder Network for Sequential Face Alignment
 This is a demo code for:
+
 "A Recurrent Encoder-Decoder Network for Sequential Face Alignment"
+
 Peng, Xi and Feris, Rogerio S.and Wang, Xiaoyu and Metaxas, Dimitris N.
+
 European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 
 # How to run
