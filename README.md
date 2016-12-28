@@ -1,5 +1,8 @@
-# recurrent-face-alignment
-Demo for Xi Peng et al. "A Recurrent Encoder-Decoder Network for Sequential Face Alignment", ECCV, 2016.
+# A Recurrent Encoder-Decoder Network for Sequential Face Alignment
+This is a demo code for:
+"A Recurrent Encoder-Decoder Network for Sequential Face Alignment"
+Peng, Xi and Feris, Rogerio S.and Wang, Xiaoyu and Metaxas, Dimitris N.
+European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 
 # How to run
 1. Code: Clone the project to "root/"
@@ -9,6 +12,7 @@ Demo for Xi Peng et al. "A Recurrent Encoder-Decoder Network for Sequential Face
 5. Result: Check tracking results in "root/result/"
 
 # Reference
+Bibtex
 @InProceedings{PengECCV16,
 author = "Peng, Xi and Feris, Rogerio S.and Wang, Xiaoyu and Metaxas, Dimitris N.",
 title = "A Recurrent Encoder-Decoder Network for Sequential Face Alignment",
