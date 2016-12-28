@@ -3,7 +3,7 @@ This is a quick demo for:
 
 "A Recurrent Encoder-Decoder Network for Sequential Face Alignment"
 
-Peng, Xi and Feris, Rogerio S.and Wang, Xiaoyu and Metaxas, Dimitris N.
+Xi Peng, Rogerio S. Feris, Xiaoyu Wang, Dimitris N. Metaxas
 
 European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 
