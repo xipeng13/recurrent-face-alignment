@@ -1,4 +1,4 @@
-# A Recurrent Encoder-Decoder Network for Sequential Face Alignment
+## A Recurrent Encoder-Decoder Network for Sequential Face Alignment
 This is a quick demo for:
 
 "A Recurrent Encoder-Decoder Network for Sequential Face Alignment"
