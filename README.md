@@ -28,17 +28,11 @@ The tracker need the bbox of the face at the first frame for initialization.
 Dependency: caffe (support batch normalization layer); python 2.7.
 
 # Reference
-Bibtex
-
+```
 @InProceedings{PengECCV16,
-
 author = "Peng, Xi and Feris, Rogerio S.and Wang, Xiaoyu and Metaxas, Dimitris N.",
-
 title = "A Recurrent Encoder-Decoder Network for Sequential Face Alignment",
-
 booktitle = "14th European Conference on Computer Vision (ECCV)",
-
 year = "2016",
-
-pages="38--56"
-}
+pages="38--56"}
+```
