@@ -7,7 +7,7 @@ Xi Peng, Rogerio S. Feris, Xiaoyu Wang, Dimitris N. Metaxas
 
 European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 
-# How to Run
+## How to Run
 1. Clone/Download the project to ```recurrent-face-alignment/```
 
 2. Download folders ```model/``` and ```data/``` from https://drive.google.com/open?id=0B-FLp_bljv_1dzZGdUZIamstVkE
@@ -20,14 +20,14 @@ European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 
 6. Check tracking results in ```recurrent-face-alignment/result/```
 
-# Tracking protocol
+## Tracking protocol
 For research convenience, we split video into frames using ffmpeg.
 
 The tracker need the bbox of the face at the first frame for initialization. 
 
 Dependency: caffe (support batch normalization layer); python 2.7.
 
-# Reference
+## Reference
 ```
 @InProceedings{PengECCV16,
 author = "Peng, Xi and Feris, Rogerio S.and Wang, Xiaoyu and Metaxas, Dimitris N.",
