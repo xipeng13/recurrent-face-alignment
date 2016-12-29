@@ -8,11 +8,13 @@ Xi Peng, Rogerio S. Feris, Xiaoyu Wang, Dimitris N. Metaxas
 European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 
 # How to Run
-1. Code: Clone the project to "root/"
+1. Code: Clone/Download the project to "recurrent-face-alignment/"
 
-2. Mode: Download pre-trained caffe model from http: . Unzip model.zip and copy "model/" to "root/"
+2. Mode: Download pre-trained caffe model from https://drive.google.com/open?id=0B-FLp_bljv_1eGdyM3JkTmRFQ28. Unzip and copy "model/" to "recurrent-face-alignment/"
 
-3. Video: Edit "root/TrackDemo.py" to set "caffe/python/path" and "video/path"
+3. Video: Download demo videos from https://drive.google.com/open?id=0B-FLp_bljv_1ampOZXFBRE5MWEk. Unzip and copy "data/" to "recurrent-face-alignment/"
+
+3. Modify: Edit "TrackDemo.py" to set (a) "path/to/caffe/python/", and (b) "video names to be tracked" 
 
 4. Track: "python TrackDemo.py"
 
@@ -21,9 +23,9 @@ European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 # Tracking protocol
 For research convenience, we split testing video into frames using ffmpeg.
 
-The user need to provide the bbox of the face at the first frame to initialize the tracker.
+The tracker need the bbox of the face at the first frame for initialization. 
 
-Dependency: caffe (support versions after Oct, 2015); python 2.7.
+Dependency: caffe (support batch normalization layer); python 2.7.
 
 # Reference
 Bibtex
