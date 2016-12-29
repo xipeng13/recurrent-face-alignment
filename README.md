@@ -8,7 +8,7 @@ Xi Peng, Rogerio S. Feris, Xiaoyu Wang, Dimitris N. Metaxas
 European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 
 # How to Run
-1. Clone/Download the project to "recurrent-face-alignment/"
+1. Clone/Download the project to ```recurrent-face-alignment/```
 
 2. Download folders "model/" and "data/" from https://drive.google.com/open?id=0B-FLp_bljv_1dzZGdUZIamstVkE
 
@@ -18,7 +18,7 @@ European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 
 5. "python TrackDemo.py"
 
-6. Check tracking results in "root/result/"
+6. Check tracking results in "recurrent-face-alignment/result/"
 
 # Tracking protocol
 For research convenience, we split testing video into frames using ffmpeg.
