@@ -10,9 +10,9 @@ European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 # How to Run
 1. Code: Clone/Download the project to "recurrent-face-alignment/"
 
-2. Mode: Download pre-trained caffe model from https://drive.google.com/open?id=0B-FLp_bljv_1eGdyM3JkTmRFQ28. Unzip and copy "model/" to "recurrent-face-alignment/"
+2. Mode: Download pre-trained caffe model from https://drive.google.com/open?id=0B-FLp_bljv_1eGdyM3JkTmRFQ28. Copy "model/" to "recurrent-face-alignment/"
 
-3. Video: Download demo videos from https://drive.google.com/open?id=0B-FLp_bljv_1ampOZXFBRE5MWEk. Unzip and copy "data/" to "recurrent-face-alignment/"
+3. Video: Download demo videos from https://drive.google.com/open?id=0B-FLp_bljv_1ampOZXFBRE5MWEk. Copy "data/" to "recurrent-face-alignment/"
 
 3. Modify: Edit "TrackDemo.py" to set (a) "path/to/caffe/python/", and (b) "video names to be tracked" 
 
