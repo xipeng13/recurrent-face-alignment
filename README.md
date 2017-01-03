@@ -21,13 +21,11 @@ European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 6. Check tracking results in ```recurrent-face-alignment/result/```
 
 ## How to Detect Landmarks in Static Image
-1. - 3. Same
 
 4. Edit ```DetectImageDemo.py``` to set (a) ```path/to/caffe/python/```, and (b) ```image folder to be detected``` 
 
 5. ```python DetectImageDemo.py```
 
-6. Same
 
 ## Tracking protocol
 For research convenience, we split video into frames using ffmpeg.
