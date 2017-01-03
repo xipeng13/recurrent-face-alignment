@@ -7,6 +7,8 @@ Xi Peng, Rogerio S. Feris, Xiaoyu Wang, Dimitris N. Metaxas
 
 European Conference on Computer Vision (ECCV), Amsterdam, 2016.
 
+![Alt text](data/fig/1.pdf?raw=true "Overview of the recurrent encoder-decoder network")
+
 ## How to Track Landmarks in Video
 1. Clone/Download the project to ```recurrent-face-alignment/```
 
