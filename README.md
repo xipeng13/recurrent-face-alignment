@@ -15,7 +15,7 @@ European Conference on Computer Vision (ECCV), Amsterdam, 2016. (Oral)
 ## How to Track Landmarks in Video
 1. Clone/Download the project to ```recurrent-face-alignment/```
 
-2. Download folders ```model/``` and ```data/``` from [google drive](https://drive.google.com/open?id=0B-FLp_bljv_1dzZGdUZIamstVkE)
+2. Download folders ```model/``` and ```data/``` from [Google Drive](https://drive.google.com/open?id=0B-FLp_bljv_1dzZGdUZIamstVkE)
 
 3. Copy folders ```model/``` and ```data/``` into ```recurrent-face-alignment/```
 
@@ -41,7 +41,7 @@ The tracker need the bbox of the face at the first frame for initialization.
 The detector need ```img_bbox.txt``` that each line has 5 tokens: ```path/to/image left top right bottom```
 
 ## Dependency
-caffe: any version that support batch normalization layer (such as [segnet](https://github.com/alexgkendall/caffe-segnet)). We will relase our distributed caffe version soon.
+caffe: any version that support batch normalization layer (such as [SegNet](https://github.com/alexgkendall/caffe-segnet)). We will relase our distributed caffe version soon.
 
 python 2.7.
 
