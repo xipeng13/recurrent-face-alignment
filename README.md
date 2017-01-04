@@ -41,7 +41,7 @@ The tracker need the bbox of the face at the first frame for initialization.
 The detector need ```img_bbox.txt``` that each line has 5 tokens: ```path/to/image left top right bottom```
 
 ## Dependency
-caffe: any version that support batch normalization layer (such as segnet: https://github.com/alexgkendall/caffe-segnet). We will relase our distributed caffe version soon.
+caffe: any version that support batch normalization layer (such as [segnet](https://github.com/alexgkendall/caffe-segnet). We will relase our distributed caffe version soon.
 
 python 2.7.
 
