@@ -15,7 +15,7 @@ European Conference on Computer Vision (ECCV), Amsterdam, 2016. (Oral)
 ## How to Track Landmarks in Video
 1. Clone/Download the project to ```recurrent-face-alignment/```
 
-2. Download folders ```model/``` and ```data/``` from [link](https://drive.google.com/open?id=0B-FLp_bljv_1dzZGdUZIamstVkE)
+2. Download folders ```model/``` and ```data/``` from [google drive](https://drive.google.com/open?id=0B-FLp_bljv_1dzZGdUZIamstVkE)
 
 3. Copy folders ```model/``` and ```data/``` into ```recurrent-face-alignment/```
 
