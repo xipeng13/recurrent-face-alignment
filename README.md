@@ -40,6 +40,8 @@ The tracker need the bbox of the face at the first frame for initialization.
 ## Detection protocol
 The detector need ```img_bbox.txt``` that each line has 5 tokens: ```path/to/image left top right bottom```
 
+```left top right bottom``` are the bbox of detected face.
+
 ## Dependency
 caffe: any version that support batch normalization layer (such as [SegNet](https://github.com/alexgkendall/caffe-segnet)). We will relase our distributed caffe version soon.
 
