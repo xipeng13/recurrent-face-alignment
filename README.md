@@ -6,8 +6,9 @@ This is a quick demo for:
 Xi Peng, Rogerio S. Feris, Xiaoyu Wang, Dimitris N. Metaxas
 
 European Conference on Computer Vision (ECCV), Amsterdam, 2016. (Oral)
-[PDF](https://drive.google.com/file/d/0B-FLp_bljv_1c2h1azVzaXdCSDg/view) 
-[Slides](https://drive.google.com/open?id=0B-FLp_bljv_1aXJMb0tXLXlpTFU) 
+
+[Download PDF,](https://drive.google.com/file/d/0B-FLp_bljv_1c2h1azVzaXdCSDg/view) 
+[Slides,](https://drive.google.com/open?id=0B-FLp_bljv_1OTVrMF9OM21IbW8) 
 [Poster](https://drive.google.com/open?id=0B-FLp_bljv_1VHZkLTFMUGpqdEU)
 
 ![alt text](data/fig/overview.png "overview")
